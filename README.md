@@ -28,6 +28,7 @@ Relationship management
 Filter flow optimization
 Hierarchy creation
 Handling ambiguous relationships
+-----------------
 Deliverables
 Power BI (.pbix) file
 Data model with relationships
